@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main() {
@@ -7,4 +8,3 @@ int main() {
     printf("La somme est : %d\n", a + b);
     return 0;
 }
-
